@@ -1,5 +1,1 @@
-<html>
-<body>
-<h2>Hello Session Activity!</h2>
-</body>
-</html>
+<c:redirect url="/do/home" />
